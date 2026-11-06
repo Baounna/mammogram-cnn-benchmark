@@ -1,0 +1,9 @@
+# Data (not redistributable)
+*.npz
+*.dcm
+*.pgm
+data/
+
+# System
+.DS_Store
+.ipynb_checkpoints/
